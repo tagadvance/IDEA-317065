@@ -1,0 +1,1 @@
+# Sample Project for [IDEA-317065](https://youtrack.jetbrains.com/issue/IDEA-317065/cannot-find-symbol-error-for-references-to-classes-that-were-packaged-through-maven-jar-plugin-test-jar-goal)
